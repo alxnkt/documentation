@@ -255,7 +255,7 @@ You have just created and published your first article, `Hello World!`. You can 
 
 It's time to make this blog a bit more yours.
 
-click on [_Single Types > Homepage_](http://localhost:1337/admin/plugins/content-manager/singleType/application::homepage.homepage) in the left-hand menu. Let's edit this homepage:
+Click on [_Single Types > Homepage_](http://localhost:1337/admin/plugins/content-manager/singleType/application::homepage.homepage) in the left-hand menu. Let's edit this homepage:
 
 1. Hover the picture in the **ShareImage field** and click the **Edit** icon <Fa-PencilAlt />. 
 2. Click on **Replace Media** and upload an image from your computer. This image will represent your blog when sharing an article on social medias. 
